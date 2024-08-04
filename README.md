@@ -8,7 +8,7 @@ I'm a student of computer science and interested in html, CSS and javascript .
 
 * 🌍  I'm based in Pakistan
 * 🚀  I'm currently working on [Recipe App](http://recipe.com)
-* 🧠  I'm learning angular
+* 🧠  I'm learning java
 * 🤝  I'm open to collaborating on projects
 
 ### Skills
